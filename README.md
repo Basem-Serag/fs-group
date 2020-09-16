@@ -1,6 +1,6 @@
 # fs-group
 Group Monday Full Stack Developer
-Group:
+Member:
 Hesham  Team Leader
 Basem   Member
 Islam   Member
